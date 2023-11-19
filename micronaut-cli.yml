@@ -1,0 +1,6 @@
+applicationType: cli
+defaultPackage: online.stepanovsky.energyprice.ote
+testFramework: kotest
+sourceLanguage: kotlin
+buildTool: maven
+features: [app-name, h2, http-client, kapt, kotest, kotlin, logback, maven, maven-enforcer-plugin, mockk, mqtt, picocli, picocli-kotest, picocli-kotlin-application, properties, r2dbc, readme, serialization-jackson, shade, test-resources]
